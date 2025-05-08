@@ -1,0 +1,11 @@
+Customer Information:
+Phone Number: +998500010452
+First Name: Diana
+Last Name: Abdurasulova
+Address: Boyqurgon st 1
+
+Order:
+Four Cheese - 90000.00 so'm
+Four Cheese - 90000.00 so'm
+Total: 180000.00 so'm
+Cashback: 5400.00 so'm
